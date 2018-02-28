@@ -1,0 +1,9 @@
+C:\Users\badar\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\badar\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\badar\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\badar\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+C:\Users\badar\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\badar\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\badar\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\badar\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\badar\Documents\Visual Studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
